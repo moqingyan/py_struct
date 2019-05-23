@@ -1,0 +1,8 @@
+Use this directory by 
+1.  Create a python virtual environment:
+python -m venv <name>
+2. activate the environment:
+source ./venv/bin/activate.fish (if you are using fish like me)
+3. install the directory:
+pip install -e .
+4. add "animal." to imports 
